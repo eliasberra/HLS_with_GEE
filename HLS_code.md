@@ -1,6 +1,7 @@
 /* -------------- Harmonization of Landsat and Sentinel-2 -------------------
 */
 
+```JavaScript
 
 // -- Import the MODULES (functions)
 var funcHLS = require('users/geeberra/Modules:HLS_Module_v2');
@@ -353,3 +354,5 @@ print('Merged_Series', chart_merged);
 
 // // //
 Map.addLayer(PoI, {}, 'Point of Interest');
+
+```
