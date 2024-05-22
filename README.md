@@ -6,5 +6,6 @@ The rational behind the code is described in the submitted paper entitled 'Harmo
 
 
 ## How to assemble and run the code
-The codes are organized in two files. The first file () contains some general parameter settings (e.g. date range) and a call to the modules (functions).
-The second file are the functions themselves ().
+The codes are organized in two files. The first file ('HLS_code.md') contains the general workflow with the main  parameter settings (e.g. date range) and a call to the modules (functions).
+The second file contains the functions themselves ('HLS_modules.md').
+Paste both files into GEE and it should work.
